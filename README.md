@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Vishal Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India and currently a 3rd year student from VIT-Chennai, Tamil Nadu.</h3>
 
