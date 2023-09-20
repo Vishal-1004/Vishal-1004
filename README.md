@@ -58,10 +58,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Vishal-1004/Vishal-1004/output/snake.svg" alt="Snake animation" />
-
-###
